@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/jahanzaib"
+                href="https://github.com/itxJahanzaib"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com/in/jahanzaib"
+                href="https://www.linkedin.com/in/muhammad-jahanzaib-803577312/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
                 <Linkedin size={20} />
               </a>
               <a
-                href="mailto:jahanzaib@example.com"
+                href="mailto:mj6328667@gmail.com"
                 className="p-2 bg-gray-800 hover:bg-gray-700 rounded-lg transition-colors"
                 aria-label="Email"
               >
